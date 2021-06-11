@@ -1,10 +1,10 @@
-[书签](https://xiguan.net)    [多吉](https://www.dogedoge.com)    [百度](https://www.baidu.com)    [谷歌](https://www.google.com)     [知乎](https://www.zhihu.com)    [哔哩哔哩](https://www.bilibili.com)    [QQ邮箱](https://mail.qq.com)    [微信读书](https://weread.qq.com)    [今日热榜](https://tophub.today)
+[百度](https://www.baidu.com)    [谷歌](https://www.google.com)     [知乎](https://www.zhihu.com)    [QQ邮箱](https://mail.qq.com)    [哔哩哔哩](https://www.bilibili.com)    [微信读书](https://weread.qq.com)    [今日热榜](https://tophub.today)
 
 # 目录
 
 [娱乐](#娱乐)
 
-- [PT](#pt)    [视频](#视频)    [资讯](#资讯)    [同城帮](#同城帮)    [处理器显卡](#处理器显卡)    [塞尔达传说](#塞尔达传说)
+- [PT](#pt)    [视频](#视频)    [资讯](#资讯)    [同城帮](#同城帮)    [处理器显卡](#处理器显卡)    [塞尔达传说](#塞尔达传说)    [其他游戏攻略](#其他游戏攻略)
 
 [学习](#学习)
 
@@ -18,17 +18,17 @@
 
 [工具](#工具)
 
-- [其他工具](#其他工具)    [搜索引擎](#搜索引擎)    [网站导航](#网站导航)    [工具合集](#工具合集)    [编程工具](#编程工具)    [在线翻译](#在线翻译)    [MD工具](#md工具)
-- [网盘快传](#网盘快传)    [下载工具](#下载工具)    [短链生成](#短链生成)    [作图作表](#作图作表)    [图表处理](#图表处理)    [图床工具](#图床工具)    [图片搜索](#图片搜索)
-- [PDF工具](#pdf工具)    [文件处理](#文件处理)    [格式转换](#格式转换)    [数学工具](#数学工具)    [在线文档](#在线文档)    [问卷工具](#问卷工具)    [临时邮箱短信](#临时邮箱短信)
+- [其他工具](#其他工具)    [搜索引擎](#搜索引擎)    [网站导航](#网站导航)    [工具合集](#工具合集)    [设备同步](#设备同步)    [编程工具](#编程工具)    [在线翻译](#在线翻译)    [MD工具](#md工具)
+- [网盘快传](#网盘快传)    [下载工具](#下载工具)    [短链生成](#短链生成)    [作图作表](#作图作表)    [图表处理](#图表处理)    [图床工具](#图床工具)    [图片搜索](#图片搜索)    [PDF工具](#pdf工具)
+- [文件处理](#文件处理)    [格式转换](#格式转换)    [数学工具](#数学工具)    [在线文档](#在线文档)    [问卷工具](#问卷工具)    [临时邮箱短信](#临时邮箱短信)
 
 [资源](#资源)
 
-- [整合](#整合)    [其他资源](#其他资源)    [电子书搜索](#电子书搜索)
+- [整合](#整合)    [其他资源](#其他资源)    [高清壁纸](#高清壁纸)    [电子书搜索](#电子书搜索)
 
 [软件](#软件)
 
-- [帖子](#帖子)    [多元](#多元)    [单一](#单一)    [手机](#手机)    [VPN](#vpn)    [镜像站](#镜像站)    [内网穿透](#内网穿透)
+- [帖子](#帖子)    [多元](#多元)    [单一](#单一)    [手机](#手机)    [PE](#PE)    [VPN](#vpn)    [镜像站](#镜像站)    [内网穿透](#内网穿透)
 
 # 娱乐
 
@@ -36,13 +36,13 @@
 
 [南洋PT(封存400/未封150)](https://nanyangpt.com)
 
-[M-Team(封存100/未封40)](https://pt.m-team.cc)
-
 [HDChina(封存180/未封6周)](https://hdchina.org)
 
 [北邮人](http://bt.byr.cn)
 
 [蒲公英](http://npupt.com)
+
+[M-Team](https://kp.m-team.cc)
 
 [六维空间](http://bt.neu6.edu.cn)
 
@@ -51,8 +51,6 @@
 ## 视频
 
 [茶杯狐](https://www.cupfox.com)
-
-[AGE动漫](https://www.agefans.net/)
 
 [AGE动漫](http://www.agefans.cc)
 
@@ -70,7 +68,7 @@
 
 [今日热榜](https://tophub.today)
 
-[全网追剧时间表](http://v.qq.com/zhuiju/)
+[ETH 浏览器](https://www.oklink.com/eth)
 
 ## 同城帮
 
@@ -85,6 +83,8 @@
 ## 处理器显卡
 
 [芯参数评测](https://www.xincanshu.com/)
+
+[CPU Comparison](https://cpu-comparison.com/)
 
 [手机CPU性能天梯图](http://mobile.zol.com.cn/soc/)
 
@@ -116,9 +116,17 @@
 
 [各种盾牌刷新点位置及图鉴](https://www.gamersky.com/handbook/201805/1046930.shtml)
 
+## 其他游戏攻略
+
+[仙剑奇侠传4委托任务+支线剧情](http://www.paopaoche.net/gonglue/25872.html)
+
+[中国式家长特长351项统计汇总](https://www.bilibili.com/read/cv10061888/)
+
 # 学习
 
 ## 论文写作
+
+[Overleaf](https://www.overleaf.com/)
 
 [秘塔写作猫](https://xiezuocat.com/)
 
@@ -128,9 +136,11 @@
 
 > 可以在线进行英语写作，并进行写作批改、写作评分。
 
+[Copyleaks](https://copyleaks.com)
+
 [Grammarly](https://app.grammarly.com)
 
-[COPYLEAKS](https://copyleaks.com)
+[WWWJournal投稿页面](https://www.editorialmanager.com/WWWJ/default.aspx)
 
 ## 专利写作
 
@@ -154,9 +164,13 @@
 
 [微软学术](https://academic.microsoft.com)
 
+[Love Sci-Hub](https://lovescihub.wordpress.com)
+
 [谷歌学术镜像](https://ac.scmor.com/)
 
-[Love Sci-Hub](https://lovescihub.wordpress.com)
+[科塔学术导航](https://site.sciping.com/)
+
+[虫部落学术搜索](https://scholar.chongbuluo.com/)
 
 [Semantic Scholar](https://www.semanticscholar.org/)
 
@@ -171,8 +185,6 @@
 [RecSys](https://recsys.acm.org)
 
 [WWWJournal](https://www.springer.com/journal/11280)
-
-[WWWJournal投稿页面](https://www.editorialmanager.com/WWWJ/default.aspx)
 
 ### 论文集主页
 
@@ -256,21 +268,25 @@
 
 [Angel_Kitty - 博客园](https://www.cnblogs.com/ECJTUACM-873284962)
 
-[zheng_lw - 洛谷博客](https://www.luogu.org/blog/cwr)
+[zheng_lw - 洛谷博客](https://www.luogu.com.cn/blog/cwr/)
 
 ## 教程帖子
+
+[Git 大全](https://gitee.com/all-about-git)
 
 [Overleaf教程](https://zhuanlan.zhihu.com/p/67182742)
 
 [Overleaf教程](https://zhuanlan.zhihu.com/p/83496692)
-
-[V2RayN局域网共享](https://koonchung.github.io/posts/2020-02-06)
 
 [Acrobat Pro动作向导](https://helpx.adobe.com/cn/acrobat/11/using/action-wizard-acrobat-pro.html)
 
 [使用TeamviewerVPN访问内网](http://www.winseliu.com/blog/2017/11/04/teamviewer-vpn-on-windows/)
 
 ## 教程手册
+
+[菜鸟教程](https://www.runoob.com)
+
+[简单教程](https://www.twle.cn)
 
 [Remake](http://bashdb.sourceforge.net/remake/)
 
@@ -282,9 +298,9 @@
 
 [Django教程](https://www.runoob.com/django/django-tutorial.html)
 
-[Anki中文文档](https://i.anki.link)
-
 [Windows子系统](https://docs.microsoft.com/zh-cn/windows/wsl/)
+
+[AutoHotkey 快速参考](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm)
 
 [PostgreSQL 10.1手册](https://www.runoob.com/manual/PostgreSQL/index.html)
 
@@ -306,21 +322,17 @@
 
 [算法之路](https://linrongbin16.gitbooks.io/way-to-algorithm/content)
 
-[菜鸟教程](https://www.runoob.com)
-
-[简单教程](https://www.twle.cn)
-
 [C++参考手册](https://zh.cppreference.com)
 
 [可视线性代数](http://immersivemath.com/ila/index.html)
 
-[Linux运维之美](https://ccstudio.org/linux)
+[Linux运维之美](https://ccstudio.com.cn/linux)
 
-[西瓜书详细推导版](https://datawhalechina.github.io/pumpkin-book/#)
+[西瓜书详细推导版](https://datawhalechina.github.io/pumpkin-book/#/)
 
 [神经网络与机器学习](https://nndl.github.io)
 
-[labuladong的算法小抄](https://labuladong.gitbook.io/algo)
+[labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 
 ## 在线教育
 
@@ -340,7 +352,7 @@
 
 [Stack Overflow](https://stackoverflow.com/)
 
-[SegmentFault思否](https://segmentfault.com/)
+[SegmentFault思否](https://segmentfault.com/questions)
 
 ## OnlineJudge
 
@@ -350,11 +362,13 @@
 
 [洛谷](https://www.luogu.org/problemnew/lists)
 
+[Vijos](https://vijos.org/)
+
 [北大OJ](http://poj.org)
 
 [HDUOJ](http://acm.hdu.edu.cn)
 
-[Codeup](http://codeup.cn)
+[kick start](https://codingcompetitions.withgoogle.com/kickstart/schedule)
 
 [NEUQ OJ](http://newoj.acmclub.cn/home)
 
@@ -390,6 +404,8 @@
 
 [清华大学网络学堂](http://learn.tsinghua.edu.cn)
 
+[清华大学教参平台](http://reserves.lib.tsinghua.edu.cn/Home)
+
 [清华大学荷塘雨课堂](https://pro.yuketang.cn)
 
 [清华大学校内一体化平台](https://tsinghua.yuketang.cn)
@@ -412,13 +428,13 @@
 
 [清华大学校园网盘](https://cloud.tsinghua.edu.cn)
 
-[清华大学校园地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt1.htm)
+[清华大学校园地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm)
 
 [清华大学两办信息网](http://xxbg.cic.tsinghua.edu.cn)
 
-[清华大学饮食服务中心](https://www.tsinghua.edu.cn/ysfwzx/fwxm/jbh.htm)
-
 [清华大学后勤综合信息](http://hq.tsinghua.edu.cn)
+
+[清华大学学术活动发布](http://kyybgxx.cic.tsinghua.edu.cn/kybg/xsgg/index.jsp)
 
 [清华大学后勤综合服务平台](http://pt.tsinghua.edu.cn)
 
@@ -436,13 +452,15 @@
 
 ## 系内服务
 
-[Daas](http://daas.2861.wiki)
+[Daas](http://daas.2861.wiki/#/)
 
 [Info9](https://stu.cs.tsinghua.edu.cn)
 
 [酒井经验](https://stu.cs.tsinghua.edu.cn/app/exp9/)
 
 [国研中心](http://www.bnrist.tsinghua.edu.cn)
+
+[实验室主页](http://180.76.145.135/west/)
 
 [张勇Publications](http://180.76.145.135/west/ZhangYong/CV/Publications?action=print)
 
@@ -453,10 +471,6 @@
 [清华大学学术信息发现平台](https://tsinghua-primo.hosted.exlibrisgroup.com/primo-explore/account?vid=86THU&section=overview&lang=zh_CN)
 
 [清华大学图书馆研修间管理系统](http://cab.hs.lib.tsinghua.edu.cn/ClientWeb/xcus/ic2/Default.aspx)
-
-[清华大学文图图书馆座位预约系统](http://seat.lib.tsinghua.edu.cn/roompre)
-
-[清华大学文图图书馆座位实时信息](http://seat.lib.tsinghua.edu.cn/roomshow/)
 
 [清华大学图书馆电子资源校外访问](http://www.lib.tsinghua.edu.cn/database/visit_outside.html)
 
@@ -496,10 +510,6 @@
 
 [模拟攒机](http://zj.zol.com.cn)
 
-[皮皮直连](https://www.ppzhilian.com)
-
-> 电脑/手机互连，点对点文件传送、云剪切板、屏幕共享、可视化沟通。
-
 [IPv6 测试](https://test-ipv6.com)
 
 [美国身份大全](http://www.shenfendaquan.com)
@@ -518,11 +528,11 @@
 
 [必应](https://cn.bing.com)
 
-[Lookao](https://lookao.com)
-
-[多吉搜索](https://www.dogedoge.com)
+[联合搜索](https://www.gobaidugle.com/)
 
 [虫部落快搜](https://search.chongbuluo.com)
+
+[DuckDuckGo](https://duckduckgo.com/)
 
 ## 网站导航
 
@@ -544,9 +554,13 @@
 
 > 关于视频创作的各种网站工具的导航。
 
+[学吧导航](https://www.xue8nav.com/)
+
+[阿猫阿狗导航](https://dh.woshipm.com/)
+
 ## 工具合集
 
-[兔二工具](https://www.tool2.cn)
+[兔二工具](https://www.toer2.com/)
 
 [工具 123](http://www.gjw123.com)
 
@@ -576,15 +590,29 @@
 
 [ToolFk在线工具人](https://www.toolfk.com)
 
-[Visual Studio Online](https://online.visualstudio.com/login)
+[Visual Studio Codespaces](https://github.com/features/codespaces)
 
 [数据结构和算法动态可视化](https://visualgo.net/zh)
 
 [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+## 设备同步
+
+[书签](https://xiguan.net)
+
+[拷贝兔](https://cp.anyknew.com/)
+
+[cl1p.net](https://cl1p.net/)
+
+[皮皮直连](https://www.ppzhilian.com)
+
+> 电脑/手机互连，点对点文件传送、云剪切板、屏幕共享、可视化沟通。
+
+[网络剪贴板](https://netcut.cn/)
+
 ## 在线翻译
 
-[彩云小译](https://fanyi.caiyunapp.com/#)
+[彩云小译](https://fanyi.caiyunapp.com/#/)
 
 [百度翻译](https://fanyi.baidu.com)
 
@@ -598,7 +626,7 @@
 
 [Editor.md](https://pandao.github.io/editor.md/)
 
-[Markdown Nice](https://mdnice.com)
+[Markdown Nice](https://editor.mdnice.com/)
 
 [在线LaTeX公式编辑器](https://www.latexlive.com)
 
@@ -618,27 +646,27 @@
 
 ## 下载工具
 
+[视频鱼](http://www.shipinyu.cn)
+
 [Loadbt](https://www.loadbt.com)
 
 [offcloud](https://offcloud.com)
 
 [DownGit](http://tool.mkblog.cn/downgit/#/home)
 
-[视频鱼](http://www.shipinyu.com)
-
 [HOTBOX](https://www.hotbox.fun)
+
+[vtool解析网](https://vtool.pro/)
+
+> 小红书，抖音，快手去水印在线解析
 
 [VideoGrabber](https://www.videograbber.net/zh/)
 
 [微博党视频下载](http://weibodang.cn)
 
-[抖音视频解析下载](http://dy.zhkui.cn/dy.php)
-
 [哔哩哔哩视频解析下载](https://bilibili.iiilab.com)
 
 [Free Mp3 Download](http://tool.liumingye.cn/music/)
-
-[百度文库下载](http://139.224.236.108)
 
 [百度文库下载](http://www.blpack.com)
 
@@ -650,11 +678,13 @@
 
 [小码短链接](https://xiaomark.com)
 
-[51|a短链接](https://dwz.51.la)
-
 [Urlify短网址](https://urlify.cn)
 
 ## 作图作表
+
+[yEd](https://www.yworks.com/yed-live/)
+
+> 可以自动调整页面布局的流程图、网络拓扑图等的作图工具。
 
 [dimmy](https://dimmy.club)
 
@@ -674,7 +704,7 @@
 
 [五百丁简历](https://www.500d.me)
 
-[GIF 工具之家](https://www.tutieshi.com/)
+[图贴士](https://www.tutieshi.com/)
 
 [Photopea](https://www.photopea.com)
 
@@ -683,6 +713,8 @@
 [稿定|在线PS](https://ps.gaoding.com/#/)
 
 [稿定|UUPOOP](https://www.uupoop.com/#/)
+
+[稿定|在线拼图](https://www.gaoding.com/design/collage?id=83883)
 
 [镝数图表](https://dycharts.com)
 
@@ -700,11 +732,17 @@
 
 > 在线流程图、思维导图、UML、网络拓扑图等。
 
-[Zen Flowchart](https://www.zenflowchart.com)
+[Hatchful logo](https://hatchful.shopify.com/zh-CN/)
 
 [Table Convert](https://tableconvert.com)
 
 > 在线编辑表格，将表格转码成 LaTeX、HTML、Markdown 等格式。
+
+[Zen Flowchart](https://www.zenflowchart.com)
+
+[TEXample.net](https://texample.net/)
+
+> 有很多 LaTeX 宏包 Tikz 作图的例子，可以用来修改作图。
 
 [Tables Generator](https://www.tablesgenerator.com/)
 
@@ -812,7 +850,7 @@
 
 [ALL To ALL](https://www.alltoall.net)
 
-[ACONVERT](https://www.aconvert.com/cn)
+[ACONVERT](https://www.aconvert.com/cn/)
 
 [cloudconvert](https://cloudconvert.com)
 
@@ -826,6 +864,10 @@
 
 [数字帝国](http://zh.numberempire.com)
 
+[GeoGebra](https://www.geogebra.org/)
+
+[Mathepower](https://www.mathepower.com/index.php)
+
 ## 在线文档
 
 [腾讯文档](https://docs.qq.com)
@@ -834,7 +876,7 @@
 
 [石墨文档](https://shimo.im/welcome)
 
-[Office网页版](https://www.microsoft.com/zh-cn/microsoft-365/free-office-online-for-the-web)
+[Office Online](https://www.microsoft.com/zh-cn/microsoft-365/free-office-online-for-the-web)
 
 ## 问卷工具
 
@@ -874,35 +916,47 @@
 
 > 下载客户端之后可以方便地使用各种字体。
 
-[必应壁纸](https://www.yangshangzhen.com/bing)
+[CableAV](https://cableav.tv/)
 
 [草榴社区](http://t66y.com/index.php)
 
 [灵梦御所](https://blog.reimu.net)
 
+[终点论坛](https://bbs.zdfx.net/)
+
 [Anki资源包](https://ankiweb.net/shared/decks/chinese)
 
 [奇迹秀捷径](http://www.qijishow.com/Brand/Brand69/index.html)
+
+[Cosersets下载](https://cosindex.251.sh/#)
+
+[Cosersets查看](https://www.cosersets.com/1/main)
 
 [12999数学课件网](http://kejian.12999.com)
 
 [Office 模板和主题](https://templates.office.com)
 
+## 高清壁纸
+
+[必应壁纸](https://www.yangshangzhen.com/bing)
+
+[WallpapersWide](http://wallpaperswide.com/)
+
+[WallpaperMaiden](https://www.wallpapermaiden.com/)
+
 ## 电子书搜索
+
+[书享家](http://shuxiangjia.cn/)
 
 [微信读书](https://weread.qq.com)
 
-[Wow! eBook](http://www.wowebook.com)
-
-[ZLibrary.Asia](https://b-ok.asia/)
-
-[Library Genesis](http://gen.lib.rus.ec)
-
 [鸠摩搜书](https://www.jiumodiary.com)
 
-[时宜搜书](https://www.shiyisoushu.com/)
+[Z-Library](https://zh.z-lib.org/)
 
-[搜书 VIP](http://www.soshuvip.com/)
+[Wow! eBook](http://www.wowebook.com)
+
+[Library Genesis](http://libgen.rs/)
 
 [虫部落电子书搜索](https://ebook.chongbuluo.com/)
 
@@ -920,6 +974,8 @@
 
 [Windows To Go 辅助工具](https://bbs.luobotou.org/thread-761-1-1.html)
 
+[Windows To GO 优盘系统](https://bbs.luobotou.org/forum.php?mod=forumdisplay&fid=88&page=)
+
 [VS Express 2013 for Desktop](http://www.yalewoo.com/vs_2013_express.html)
 
 ## 多元
@@ -928,9 +984,15 @@
 
 [白的夜](https://www.baideye.com/)
 
+[不死鸟](https://iao.su/)
+
 [Mac软件](http://www.pshezi.com)
 
+[小众软件](https://www.appinn.com/)
+
 [音速装机](https://sonic.volf.club)
+
+[五星软件](https://fivestar.app/)
 
 [创造者日报](https://creatorsdaily.com)
 
@@ -956,6 +1018,10 @@
 
 > 安卓 ROM。
 
+[Ditto](https://ditto-cp.sourceforge.io/)
+
+[V2Fly](https://www.v2fly.org/)
+
 [Rufus](https://rufus.ie/zh_CN.html)
 
 > 创建 USB 启动盘。
@@ -968,21 +1034,40 @@
 
 > 提供 PE 工具、万能驱动、运行库、镜像操作工具等下载。
 
-[Captura](https://mathewsachin.github.io/Captura)
-
-> 免费、开源、无广告、强大的录屏软件。
-
 [ToDesk](https://www.todesk.com)
 
 > 个人免费的远程控制软件。
+
+[GitNote](https://gitnoteapp.com/zh)
+
+> 基于Git的笔记软件，支持markdown编辑。
+
+[Quicker](https://getquicker.net/)
+
+[Captura](https://mathewsachin.github.io/Captura)
+
+> 免费、开源、无广告、强大的录屏软件。
 
 [KingDraw](http://www.kingdraw.cn)
 
 > 专业型化学结构式编辑器。
 
-[微PE工具箱](http://www.wepe.com.cn)
+[QuickLook](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/QuickLook-xupefei.shtml)
+
+> 一款强大、丰富定制功能的快速预览工具，支持图片、压缩包、文档、视频、音频等文件预览。
+
+[BookxNote](http://www.bookxnote.com)
+
+> 基于阅读的笔记软件，可以导入 PDF 和EPUB 两种格式电子书，标记重点时可以自动生成思维导图。
 
 [DiskGenius](http://www.diskgenius.cn)
+
+
+[亦是美网络](http://www.yishimei.cn)
+
+> 提供 Windows、Office 等软件的一键破解工具 KMS。
+
+[云萌激活工具](https://cmwtat.cloudmoe.com/cn.html)
 
 [傲梅分区助手](http://www.disktool.cn)
 
@@ -990,51 +1075,47 @@
 
 [数据恢复精灵](http://www.eassos.cn/cr)
 
-[GitNote](https://gitnoteapp.com/zh)
-
-> 基于Git的笔记软件，支持markdown编辑。
-
-[GitNote 百度网盘](https://pan.baidu.com/s/18X3Hl0ZXcVk7FItRosHuaA#list/path=%2F&parentPath=%2F)
-
-[BookxNote](http://www.bookxnote.com)
-
-> 基于阅读的笔记软件，可以导入 PDF 和EPUB 两种格式电子书，标记重点时可以自动生成思维导图。
-
-[亦是美网络](http://www.yishimei.cn)
-
-> 提供 Windows、Office 等软件的一键破解工具 KMS。
-
 [PowerShadow](http://www.yingzixitong.cn)
 
 > 影子系统，每次开机重置 C 盘系统。
+
+[Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic)
+
+> 可以通过 WinConfig 解决开启全局代理后 Microsoft store 不能联网问题。
 
 [Geek Uninstaller](https://geekuninstaller.com/download)
 
 > 简单、易用的流氓软件清理工具，强力卸载软件，删除卸载残留。
 
-[QuickLook](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/QuickLook-xupefei.shtml)
-
-> 一款强大、丰富定制功能的快速预览工具，支持图片、压缩包、文档、视频、音频等文件预览。
-
 ## 手机
+
+[太极](https://www.taichi-app.com/#/index)
 
 [F-Droid](https://f-droid.org)
 
 > F-Droid 是一个 Android 平台上 FOSS（Free and Open Source Software，自由开源软件）的目录，并提供下载安装支持。
 
+[APKCombo](https://apkcombo.com/zh/)
+
+> 直接下载 Google Play 中的应用安装包。
+
 [KDE Connect](https://kdeconnect.kde.org)
 
 > 用于跨平台实现剪切板共享、文件互传等功能。
 
-## VPN
+## PE
 
-[河豚](https://hetun.host)
+[冰封](http://www.bfgho.com/)
+
+[优启通](https://www.itsk.com/thread-417565-1-1.html)
+
+[微PE工具箱](http://www.wepe.com.cn)
+
+## VPN
 
 [速蛙云](https://cloud.faster.buzz)
 
-[hide.me](https://hide.me/en)
-
-[梨2加速器](https://www.lee2cloud.com)
+[梨2加速器](https://www.lee2leecloud.com/)
 
 [Windscribe](https://chn.windscribe.com)
 
@@ -1054,7 +1135,7 @@
 
 [阿里云开源镜像站](https://developer.aliyun.com/mirror/)
 
-[ITELLYOU](https://www.itellyou.com/download)
+[ITELLYOU](https://msdn.itellyou.cn/)
 
 [NEXT, ITELLYOU](https://next.itellyou.cn/)
 

@@ -1,4 +1,4 @@
-[百度](https://www.baidu.com)    [谷歌](https://www.google.com)     [知乎](https://www.zhihu.com)    [QQ邮箱](https://mail.qq.com)    [哔哩哔哩](https://www.bilibili.com)    [微信读书](https://weread.qq.com)    [今日热榜](https://tophub.today)
+[百度](https://www.baidu.com)    [谷歌](https://www.google.com)     [知乎](https://www.zhihu.com)    [拷贝兔](https://cp.anyknew.com/)    [QQ邮箱](https://mail.qq.com)    [YouTube](https://www.youtube.com/)    [哔哩哔哩](https://www.bilibili.com)    [微信读书](https://weread.qq.com)    [今日热榜](https://tophub.today)
 
 # 目录
 
@@ -51,6 +51,8 @@
 ## 视频
 
 [茶杯狐](https://www.cupfox.com)
+
+[YouTube](https://www.youtube.com/)
 
 [AGE动漫](http://www.agefans.cc)
 

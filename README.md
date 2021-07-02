@@ -1169,6 +1169,8 @@
 
 [Windscribe](https://chn.windscribe.com)
 
+[下北沢红茶馆](https://testred.xyz/)
+
 [Hotspot Shield](https://www.hotspotshield.com/zh)
 
 [优质科学上网节点](https://band.us/@fastssr)

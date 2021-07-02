@@ -1161,7 +1161,11 @@
 
 [速蛙云](https://cloud.faster.buzz)
 
+[布丁网络](https://pud.9527nb.com/)
+
 [梨2加速器](https://www.lee2leecloud.com/)
+
+[Fog World](https://gossr.pw)
 
 [Windscribe](https://chn.windscribe.com)
 

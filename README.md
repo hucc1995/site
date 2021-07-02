@@ -10,7 +10,7 @@
 
 - [论文写作](#论文写作)    [专利写作](#专利写作)    [论文阅读](#论文阅读)    [机器学习](#机器学习)    [网络论坛](#网络论坛)    [个人博客](#个人博客)    [教程帖子](#教程帖子)
 
-- [教程手册](#教程手册)    [在线书籍](#在线书籍)    [在线教育](#在线教育)    [问答社区](#问答社区)    [OnlineJudge](#onlinejudge)
+- [教程手册](#教程手册)    [在线书籍](#在线书籍)    [在线教育](#在线教育)    [问答社区](#问答社区)    [编程工具](#编程工具)    [OnlineJudge](#onlinejudge)
 
 [清华](#清华)
 
@@ -18,13 +18,13 @@
 
 [工具](#工具)
 
-- [其他工具](#其他工具)    [搜索引擎](#搜索引擎)    [网站导航](#网站导航)    [工具合集](#工具合集)    [设备同步](#设备同步)    [编程工具](#编程工具)    [在线翻译](#在线翻译)    [MD工具](#md工具)
-- [网盘快传](#网盘快传)    [下载工具](#下载工具)    [短链生成](#短链生成)    [作图作表](#作图作表)    [图表处理](#图表处理)    [图床工具](#图床工具)    [图片搜索](#图片搜索)    [PDF工具](#pdf工具)
-- [文件处理](#文件处理)    [格式转换](#格式转换)    [数学工具](#数学工具)    [在线文档](#在线文档)    [问卷工具](#问卷工具)    [临时邮箱短信](#临时邮箱短信)
+- [其他工具](#其他工具)    [搜索引擎](#搜索引擎)    [网站导航](#网站导航)    [工具合集](#工具合集)    [设备同步](#设备同步)    [在线翻译](#在线翻译)    [MD工具](#md工具)    [网盘快传](#网盘快传)
+- [下载工具](#下载工具)    [短链生成](#短链生成)    [作图作表](#作图作表)    [图表处理](#图表处理)    [图床工具](#图床工具)    [图片搜索](#图片搜索)    [PDF工具](#pdf工具)    [文件处理](#文件处理)
+- [格式转换](#格式转换)    [数学工具](#数学工具)    [在线文档](#在线文档)    [问卷工具](#问卷工具)    [临时邮箱短信](#临时邮箱短信)
 
 [资源](#资源)
 
-- [整合](#整合)    [其他资源](#其他资源)    [高清壁纸](#高清壁纸)    [电子书搜索](#电子书搜索)
+- [信息](#信息)    [整合](#整合)    [其他资源](#其他资源)    [高清壁纸](#高清壁纸)    [电子书搜索](#电子书搜索)
 
 [软件](#软件)
 
@@ -230,6 +230,14 @@
 
 [李宏毅机器学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 
+### SOTA模型
+
+[Stateofheart AI](https://www.stateoftheart.ai/)
+
+[机器之心SOTA](https://www.jiqizhixin.com/sota)
+
+[Browse State of the Art](https://paperswithcode.com/sota)
+
 ## 网络论坛
 
 [掘金](https://juejin.im/)
@@ -328,6 +336,10 @@
 
 [可视线性代数](http://immersivemath.com/ila/index.html)
 
+[算法导论答案](https://walkccc.me/CLRS/)
+
+[算法导论答案](https://www.kancloud.cn/windmissing/algorithms-my-answer/115225)
+
 [Linux运维之美](https://ccstudio.com.cn/linux)
 
 [西瓜书详细推导版](https://datawhalechina.github.io/pumpkin-book/#/)
@@ -355,6 +367,28 @@
 [Stack Overflow](https://stackoverflow.com/)
 
 [SegmentFault思否](https://segmentfault.com/questions)
+
+## 编程工具
+
+[Ubuntu包查询](https://launchpad.net/ubuntu)
+
+[Linux命令大全](https://www.linuxcool.com)
+
+[程序员的工具箱](https://tool.lu)
+
+[热铁盒网页托管](https://host.retiehe.com)
+
+[Python项目源码](https://www.codingdict.com/sources/py/all)
+
+[Python作图模板](https://matplotlib.org/stable/gallery/index.html)
+
+[ToolFk在线工具人](https://www.toolfk.com)
+
+[Visual Studio Codespaces](https://github.com/features/codespaces)
+
+[数据结构和算法动态可视化](https://visualgo.net/zh)
+
+[Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## OnlineJudge
 
@@ -502,6 +536,8 @@
 
 [鲸吼](https://www.jinghooo.com)
 
+[测速](https://fast.com/zh/cn/)
+
 [闹钟网](https://naozhong.net.cn)
 
 > 在线闹钟、倒计时、秒表、世界时钟，上课使用非常方便。
@@ -513,6 +549,12 @@
 [模拟攒机](http://zj.zol.com.cn)
 
 [IPv6 测试](https://test-ipv6.com)
+
+[Speedtest](https://www.speedtest.net/)
+
+[Neat Reader](https://www.neat-reader.cn/webapp#/)
+
+> 在线epub阅读工具。
 
 [美国身份大全](http://www.shenfendaquan.com)
 
@@ -579,24 +621,6 @@
 [运营工具大全](https://xiaomark.com/tool)
 
 [刘明野的工具箱](http://tool.liumingye.cn)
-
-## 编程工具
-
-[Ubuntu包查询](https://launchpad.net/ubuntu)
-
-[Linux命令大全](https://www.linuxcool.com)
-
-[程序员的工具箱](https://tool.lu)
-
-[热铁盒网页托管](https://host.retiehe.com)
-
-[ToolFk在线工具人](https://www.toolfk.com)
-
-[Visual Studio Codespaces](https://github.com/features/codespaces)
-
-[数据结构和算法动态可视化](https://visualgo.net/zh)
-
-[Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## 设备同步
 
@@ -758,6 +782,10 @@
 
 > AI 人工智能图片无损放大。
 
+[waifu2x](http://waifu2x.udp.jp/)
+
+> AI 人工智能图片无损放大。
+
 [IMG365](http://www.img365.cn/)
 
 [img.top](https://img.top/)
@@ -777,6 +805,14 @@
 [Squoosh](https://squoosh.app/)
 
 > 谷歌出品的一款图片压缩工具，保障图像质量的前提下最大化压缩图片。
+
+[Vectorizer](https://www.vectorizer.io/)
+
+> 将位图转化为矢量图。
+
+[Vector Magic](https://vectormagic.com/)
+
+> 将位图转化为矢量图。
 
 [最优图像优化](https://zh.recompressor.com)
 
@@ -888,6 +924,8 @@
 
 [腾讯问卷](http://wj.qq.com)
 
+[金山表单](https://f.wps.cn/home)
+
 [表单大师](http://www.jsform.com)
 
 ## 临时邮箱短信
@@ -901,6 +939,12 @@
 [Receive SMS](https://receive-smss.com)
 
 # 资源
+
+## 信息
+
+[国家数据](https://data.stats.gov.cn/index.htm)
+
+[名企校招日程](https://www.nowcoder.com/school/schedule)
 
 ## 整合
 

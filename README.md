@@ -912,6 +912,8 @@
 
 [金山文档](https://www.kdocs.cn/welcome)
 
+[飞书文档](https://docs.feishu.cn/)
+
 [石墨文档](https://shimo.im/welcome)
 
 [Office Online](https://www.microsoft.com/zh-cn/microsoft-365/free-office-online-for-the-web)
